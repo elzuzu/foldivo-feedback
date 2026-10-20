@@ -1,0 +1,47 @@
+name: Bug report
+description: Report unexpected behavior in Foldivo (English only).
+title: "[Bug]: "
+labels: [bug, needs-triage]
+body:
+  - type: markdown
+    attributes:
+      value: "Please use English. Reports and attachments are PUBLIC. Remove personal filenames, paths, documents and secrets. For security vulnerabilities, use private reporting instead."
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before reporting
+      options:
+        - label: I searched existing issues and reviewed my report for private information.
+          required: true
+  - type: textarea
+    id: versions
+    attributes:
+      label: App and system versions
+      description: Use Help → Copy support information, review the text, then paste it here. Include direct or App Store edition.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Use disposable sample files. Describe local, removable, network or cloud-backed storage where relevant.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include the error message, if any.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Optional screenshots or additional context
+      description: Crop or redact anything personal. Do not attach private files or unreviewed logs.
