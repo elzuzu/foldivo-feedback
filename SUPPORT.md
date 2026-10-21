@@ -2,6 +2,10 @@
 
 Use the [bug report form](https://github.com/elzuzu/foldivo-feedback/issues/new?template=bug-report.yml) for unexpected behavior, or the [suggestion form](https://github.com/elzuzu/foldivo-feedback/issues/new?template=feature-request.yml) for improvements. Search existing reports first. Please use English.
 
+## Contact
+
+For purchase support or a private support/privacy question, email [foldivo@elzuzu.ch.eu.org](mailto:foldivo@elzuzu.ch.eu.org). Do not email passwords, payment or tax details, private documents, or unreviewed logs. Public bug reports and suggestions should use the forms above.
+
 ## A useful report
 
 Include the app version/build, direct or App Store edition, macOS version, selected interface language, expected behavior and exact reproduction steps. Help → Copy support information copies a limited version/language summary locally; review it before posting. No file paths or logs are attached automatically.
