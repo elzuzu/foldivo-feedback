@@ -24,6 +24,6 @@ Choose **Help → Interface language** or the language control in Settings. Syst
 
 ## Purchases
 
-The Mac App Store edition is not yet on sale. Once available, Apple handles purchases, billing and refund requests. Foldivo has no subscription or in-app purchases.
+Check [Foldivo on the Mac App Store](https://apps.apple.com/app/id6825317163) for availability and local pricing. The listing is accessible once Apple makes the app available in your storefront. Apple handles purchases, billing and refund requests. Foldivo has no subscription or in-app purchases.
 
 See [privacy](PRIVACY.md) and [private security reporting](SECURITY.md).
