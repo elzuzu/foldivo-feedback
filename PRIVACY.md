@@ -34,13 +34,13 @@ privacy policy; the app does not receive your payment card details.
 Support and feedback buttons open GitHub in your browser. GitHub has its own
 privacy policy. If you voluntarily open a public issue, the information you post
 is public and is processed by GitHub. Do not post private filenames, file contents,
-passwords, access tokens or payment details. We use information you choose to
+passwords, access tokens or payment details. You may also choose to email the support address below. Email delivery is processed by the relevant mail providers; do not send credentials, payment details or private file contents. We use information you choose to
 provide only to address the request. The app does not automatically attach logs. Copy support information creates a local, user-reviewed summary of app/system versions, architecture, UI language and region; it does not send the summary.
 
 The direct edition can optionally share folder favorites with Finder on your Mac. Its default mode keeps favorites independent. These settings are not uploaded by Foldivo.
 
-For questions or privacy requests, use the project’s
-[support page](https://github.com/elzuzu/foldivo-feedback/issues).
+For questions or privacy requests, email [foldivo@elzuzu.ch.eu.org](mailto:foldivo@elzuzu.ch.eu.org) or see the project’s
+[support page](https://github.com/elzuzu/foldivo-feedback/blob/main/SUPPORT.md).
 
 ## App Store privacy answers
 
@@ -48,4 +48,4 @@ The current edition does not collect data for the developer and does not track
 users. The App Store privacy questionnaire should be answered **Data Not Collected**.
 The account holder must recheck these answers if functionality or SDKs change.
 
-Effective 20 October 2026. Changes to this policy will be recorded in this public repository.
+Updated 21 October 2026. Effective 20 October 2026. Changes to this policy will be recorded in this public repository.
