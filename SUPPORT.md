@@ -1,5 +1,7 @@
 # Foldivo support
 
+Published and maintained by **Otter Appworks**. Private support and privacy requests: **foldivo@elzuzu.ch.eu.org**.
+
 Use the [bug report form](https://github.com/elzuzu/foldivo-feedback/issues/new?template=bug-report.yml) for unexpected behavior, or the [suggestion form](https://github.com/elzuzu/foldivo-feedback/issues/new?template=feature-request.yml) for improvements. Search existing reports first. Please use English.
 
 ## Contact

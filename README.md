@@ -1,6 +1,6 @@
 # Foldivo feedback
 
-Report bugs and suggest improvements for **Foldivo**, the native Apple Silicon file manager for macOS 14 and later. Maintained by **Alex / [elzuzu](https://github.com/elzuzu)**.
+Report bugs and suggest improvements for **Foldivo**, the native Apple Silicon file manager for macOS 14 and later. Published and maintained by **Otter Appworks**.
 
 This public repository contains user feedback and support documentation only. Application source code, internal audits and app downloads are not hosted here. Availability, compatibility and local pricing are shown on the [Mac App Store product page](https://apps.apple.com/app/id6825317163). The listing is accessible once Apple makes Foldivo available in your storefront.
 

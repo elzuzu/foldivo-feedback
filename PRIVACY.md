@@ -1,7 +1,6 @@
 # Foldivo — Privacy Policy
 
-Foldivo is maintained by Alex / elzuzu. This policy applies to both the direct and Mac App
-Store editions. The app has no user account, advertisements, analytics, tracking,
+Foldivo is published under the name **Otter Appworks**. Its legal operator is **Alexandre Wyer**, a sole proprietor in Switzerland, who is also the controller for information voluntarily provided to support. This policy applies to both the direct and Mac App Store editions. The app has no user account, advertisements, analytics, tracking,
 developer-operated server or automatic crash-report upload. It does not collect
 or transmit your files, filenames, folder permissions, usage or device identifiers
 to the developer.
@@ -48,4 +47,4 @@ The current edition does not collect data for the developer and does not track
 users. The App Store privacy questionnaire should be answered **Data Not Collected**.
 The account holder must recheck these answers if functionality or SDKs change.
 
-Updated 21 October 2026. Effective 20 October 2026. Changes to this policy will be recorded in this public repository.
+Updated 23 October 2026 (publisher identification). Effective 20 October 2026. Changes to this policy will be recorded in this public repository.
