@@ -48,3 +48,7 @@ users. The App Store privacy questionnaire should be answered **Data Not Collect
 The account holder must recheck these answers if functionality or SDKs change.
 
 Updated 23 October 2026 (publisher identification). Effective 20 October 2026. Changes to this policy will be recorded in this public repository.
+
+## First-launch terms decision
+
+Versions that display a first-launch terms screen keep the decision **on your Mac only**: agreement or continuation under the existing license, terms revision, fingerprints of the complete terms, language of the terms, date, app version/build and edition, and a copy of the text displayed. Merely opening or closing the screen does not record an agreement. Choosing the existing-license option is recorded separately and is never treated as acceptance. We do not receive this record or attach it to reports automatically. It contains no client account or hardware identifier, recording, filename or personal file path. Your own device backups may include it. Clearing the app’s preferences/container removes it and the screen will appear again. This record is not identity authentication or blanket consent to data processing.

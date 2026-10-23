@@ -8,6 +8,7 @@ This public repository contains user feedback and support documentation only. Ap
 - [Suggest an improvement](https://github.com/elzuzu/foldivo-feedback/issues/new?template=feature-request.yml)
 - [Search existing reports](https://github.com/elzuzu/foldivo-feedback/issues)
 - [Support and troubleshooting](SUPPORT.md)
+- [Product-use terms](TERMS.md) · English / français
 - [Privacy policy](PRIVACY.md)
 - [Report a security vulnerability privately](SECURITY.md)
 
